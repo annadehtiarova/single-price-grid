@@ -17,6 +17,9 @@ My challenge was to build out the Single price grid component and get it looking
 <img width="1701" alt="Screenshot 2024-10-08 at 12 07 45" src="https://github.com/user-attachments/assets/f630c4fd-ac62-4919-bb7e-ee8fb3393a26">
 <br>
 <br>
+<img width="1702" alt="Screenshot 2024-10-08 at 12 09 15" src="https://github.com/user-attachments/assets/cdd9ce63-7e10-49d0-8474-5519ccfc807f">
+<br>
+<br>
 I was provided with a Figma file.
 <br>
 <br>
