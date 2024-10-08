@@ -14,7 +14,7 @@ This is [my solution](https://annadehtiarova.github.io/single-price-grid/) to th
 My challenge was to build out the Single price grid component and get it looking as close to the design as possible.
 <br>
 <br>
-<img width="1702" alt="Screenshot 2024-10-08 at 12 58 32" src="https://github.com/user-attachments/assets/d945db40-56aa-4bc9-8f7e-8c9a4c4699ba">
+<img width="1702" alt="Screenshot 2024-10-08 at 13 20 56" src="https://github.com/user-attachments/assets/d6a85203-9d1a-4eee-b040-7385222e43e5">
 <br>
 <br>
 <img width="1700" alt="Screenshot 2024-10-08 at 13 20 08" src="https://github.com/user-attachments/assets/56ced70a-3125-4974-91d6-5b14d5162fe0">
